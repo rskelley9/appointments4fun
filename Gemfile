@@ -17,6 +17,7 @@ gem 'coffee-rails', '~> 4.0.0'
 
 gem 'appointments'
 
+gem 'thor'
 
 gem 'protected_attributes'
 
