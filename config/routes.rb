@@ -1,9 +1,11 @@
 Scheduler::Application.routes.draw do
 
-  resources :appointments
   root 'home#main'
 
   get '/welcome' => 'home#main'
+  resources :appointments
+
+
 
 
   # The priority is based upon order of creation: first created -> highest priority.
