@@ -14,4 +14,6 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require jquery.ui.all
+//= require appointment.js
+//= require jquery.ui.effect.all
 //= require_tree .
